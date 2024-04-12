@@ -47,7 +47,7 @@ export default class InterestForm extends Component {
                     bsStyle="primary"
                     onClick={this.props.handleClick}
                 >Calculate</Button>
-            </Form>
+            </Form> // test
         );
     }
 }
